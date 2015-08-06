@@ -1,0 +1,1 @@
+Permite Generar la conexcion de un archivo glade con codigo de python mediante el modulo GladeConnect
